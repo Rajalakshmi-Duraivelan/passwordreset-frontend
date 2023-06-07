@@ -1,4 +1,4 @@
 export const config = {
-    //api : 'https://url-shortener-backend-489g.onrender.com'
-    api:"http://localhost:8080"
+    api : 'https://password-reset-flow-saom.onrender.com'
+    //api:"http://localhost:8080"
 }
