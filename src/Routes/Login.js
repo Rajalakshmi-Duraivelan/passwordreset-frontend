@@ -49,7 +49,7 @@ function Login() {
   });
   return (
     <div className="container login ">
-      <h1 className="text-center mt-4">Welcome to URL Shortener</h1>
+      <h1 className="text-center mt-4">Welcome </h1>
       <span className="row d-flex align-content-center justify-content-center ">
         <span className="col-lg-4 col-md-6 col-sm-9  ">
           <div className="card o-hidden border-0 shadow-lg  mt-3  bg-transparent pt-5 d-flex align-content-center">
